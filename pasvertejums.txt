@@ -1,3 +1,44 @@
-davis
+1.Ko es protu šobrīd izdarīt ar raspberry pi patstavigi
+    *protu fashot images uz raspberry
+    *protu kontrolet raspberry pi izmantojot datoru/puty
+    *protu ievietot kodu lai vinu varetu ievietot\
+    *protu palaist kodu
+    *protu izveidot costyume useri raspberry pi 
+    *protu basick funkcijas ar raspberry pi
+    *protu izmantot raspberry pi lai cakaretu cilvekus, kontrolejot vinu networku.
+2.Ko es neprotu izdarīt ar raspberry pi sobrīd
+    *neprotu mainit hdmi setingus lai varetu dabut normalu bildi uz monitora
+    *neprotu izveidot aplikaciju kurur var palaist uz raspberry pi
+    *neprotu lietot arejas ierices ka kameras lai izmantotu tas datus savos kodos
+    *neprotu izmantot raspberry pi pinus kas domati visadam iericem
+3.Ar ko atskiras raspberry pi programēšana no arduino programēšanas
+    *raspberry pi mes programejam python 3 valoda
+    *arduino mes programejam java script valoda
+    *man personigi raspberry pi likas vieglak saprotams un uztverams neka arduino
+4.Funkciku skaidrojumi
+    *random metode ir kad piemeram tev ir liste ar vardiem vai skaitliem, randoms vienkarsi izvelk random lietu no tas listes
+    *liste ir vienkarsi saraksts
+    *input() funkcija ir vienkarsi funkcija kas pieprasa userim ievadit kautkadus datus, visbiezak define ko vajag no jusera lai turpinatu kodu
+    *str - strings ir apzimejus burtiem/vardiem, bet ne ar skaitliem
+    *int - intiger ir veseli skaitliem
+    *float - floats ir skaitlis kas var but gan vesals gan ar decimeldalu
+    *metožu definēšana - tu vari definet koda dalas kuras tu pectam varesi irmantot lai lupotu vai citam lietam, tas ir lietderigi ka dtev ir loti gars kods un lai datoram nebutu jalaiz viss kods tu vari isaugt noteiktas koda dalas, definesana ir piemeram def main()
+    *exit() funkcija ir domata lai apturetu kodu 
+    *if/elif/else ir funkcijas kuras izmanto ja tev piemeram vajag darbibu veikt, bet pec noteiktam vertibam, tad izmanto sos jedzienus, if = ja, esif = citadak ja, else = citadak
+5.Mans scripts
+    *mans scripts ir programets python 3, tas ir speles karatavas kods, kur ir 5 limeņi
+    *es velejos izveidot speles karatavas pats savu kodu
+    *man sanaca izveidot kodu kur bija visas prasitas lietas, spele karatavas, 5 limeņi, scora sistema
+    *man nesanaca beigas ielikt skaņas efektus kas bija extra, pietruka mazliet laika
+    *šis kods nav baigi nekam paredzets, aretu teikt sis kods bija paredzets lai es vairak apgustu programesanu pitons un to protams var izmantot lai speletu karatavas
+6.Papildus funkcijas
+    *ka jau mineju velejos pievienot ši spelei skaņu
+    *vareja pievienot vairakas valodas
+    *2 speletaju iespeja
+    *costyume vardi kurus var ievadit neverot vala kodu
+    *beigas uztaisit vinu ka aplikaciju nevis ka cmd speli, ar visiem sakuma ekraniem un gui
+7.Mana atzime
+    *es uzkatu kad esmu pelnijis 10 jo man ir visi noraditie kriteriji
+    *es kopa sai speles izveidei veltiju aptuveni 20 + stundas, jo stradaju arpus skolas, un macisanas proces bija loti ilgs, jo pirmo reizi stradaju ar python3 tik advanceta limeni
 
-kkgkg
+
